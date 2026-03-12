@@ -27,7 +27,7 @@ the word or runs out of chances.
 
 ---
 When this program is run in Pycharm for the first time without previously installing Wonderwords.  You will get an error 
-code that will link you to the Wonderwords download.  
+code that will link you to the wonderwords download.  
 
 ---
 ## Citations
