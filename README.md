@@ -30,7 +30,14 @@ When this program is run for the first time without previously installing Wonder
 code that will link you to the Wonderwords download.  
 
 ---
+## Citations
+This project uses the following libraries and assets.
 
+| Library / Asset | License Type   | Usage   |
+| :- | :- | :- |
+| [wonderwords](https://pypi.org/project/wonderwords/) | MIT | random word generation |
+
+---
 ## Videos
 - [Code Demo](https://www.youtube.com/watch?v=...)
 - [Code Walkthrough](https://www.youtube.com/watch?v=...)
