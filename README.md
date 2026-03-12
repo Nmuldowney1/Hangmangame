@@ -1,6 +1,6 @@
 # Hangman Game
-This Program generates random words through the Wonderwords library, and conceals the letters using underscores. 
-It asks the user to guess the contents of the word,  letter by letter.  It will end when the user guesses 
+This Program generates random words through the wonderwords library, then conceals the letters using underscores. 
+It asks the user to guess the contents of the word,  letter by letter.  The game ends when either, the user guesses 
 the word or runs out of chances.  
 
 ## How to Run
