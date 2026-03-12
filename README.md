@@ -26,7 +26,7 @@ the word or runs out of chances.
 2. Paste the code in main.py into a code cell.  After the previous code cell finishes, run this code cell.
 
 ---
-When this program is run for the first time without previously installing Wonderwords.  You will get an error 
+When this program is run in Pycharm for the first time without previously installing Wonderwords.  You will get an error 
 code that will link you to the Wonderwords download.  
 
 ---
